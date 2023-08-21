@@ -1,5 +1,5 @@
 # Simplified Instagram Clone
-Welcome to the Swift Instagram Clone project! This project aims to replicate the core features of the Instagram app using Swift programming language and Firebase for backend services.
+This project aims to replicate the core features of the Instagram app using Swift programming language and Firebase for backend services.
 
 
 ### User Authentication: 
